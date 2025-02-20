@@ -1,0 +1,14 @@
+{
+    "name": "myvendor/mylogger",
+    "description": "A simple logger package",
+    "type": "library",
+    
+    "autoload": {
+        "psr-4": {
+            "MyLogger\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
