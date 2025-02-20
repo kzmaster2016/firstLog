@@ -1,5 +1,5 @@
 <?php
-namespace MyLogger;
+namespace firstLogger;
 
 class Logger {
     public static function log($message) {
