@@ -1,5 +1,5 @@
 <?php
-namespace firstLogger;
+namespace kzmaster\firstLogger;
 
 class Logger {
     public static function log($message) {
