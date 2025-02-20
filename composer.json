@@ -1,11 +1,11 @@
 {
-    "name": "myvendor/mylogger",
+    "name": "kzmaster2016/firstLogger",
     "description": "A simple logger package",
     "type": "library",
     
     "autoload": {
         "psr-4": {
-            "MyLogger\\": "src/"
+            "firstLogger\\": "src/"
         }
     },
     "require": {
